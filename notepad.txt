@@ -1,0 +1,20 @@
+Goals Function ->
+[1] Check User Status -> IF TRUE (Return OK) ELSE (Return Register()) -- IN PROGRESS --
+[2] Save Image to Folder -- WAITING --
+[3] Calling Model and Save Image to Folder -- WAITING -- 
+[4] Reseacher Upload Photo Function -- WAITING --
+[4] Logs Chatbot -- WAITING --
+
+
+
+# richmenu-a -> "richMenuId": "richmenu-c3d66bcc902834547a1f7b0f3eff5c0f" 
+# user_richmenu -> "richmenu-579076a86fd7da0d618c5b1e57039883"  
+
+# Authorization Keys
+channel_id = '2000171547'
+channel_secret = '36e0a65a19fdc4edc5ce78f98e550210'
+channel_access_token = 'HfRnOPPtZmvwMzNkXNLEgac8Ym2YPbkqJnQ2I+AMWH27Q5BZ9ET18HsptBNZwBf3OMik0xu66uRt14IQvlfG2asSikDCqlwrtGL7E+Q1vSfZTNmfBeV1N8p9A+cL7jsncvaJI3uqVD9LZWmq1mbfAAdB04t89/1O/w1cDnyilFU='
+
+# Line Developer Account 
+account_username = 'baiyang.ku@gmail.com'
+account_password = 'Baiyang1234'
